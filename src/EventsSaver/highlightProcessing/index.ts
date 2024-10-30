@@ -1,0 +1,1 @@
+export { processHighlight } from './highlightProcessing'
